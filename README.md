@@ -1,6 +1,9 @@
 # Water Potability Exploratory Data Analysis
 
-A Python data analysis project exploring water quality measurements and their relationship with potability labels.
+A Python data analysis project exploring water quality measurements and their relationship with potability labels. The Project is build upon using these files:
+
+- `WaterPotability_EDA.ipynb`:  Data inspection, visualizations, comparisons, and analysis notes.
+- `water_potability.csv`: Source [Kaggle Water Potability Dataset](https://www.kaggle.com/datasets/devanshibavaria/water-potability-dataset-with-10-parameteres)
 
 ## Analysis Workflow
 
@@ -39,8 +42,3 @@ A Python data analysis project exploring water quality measurements and their re
 | `Trihalomethanes` | Trihalomethane concentration |
 | `Turbidity` | Cloudiness of the water |
 | `Potability` | Dataset classification: `0` for non-potable and `1` for potable |
-
-## Project Files
-
-- `WaterPotability_EDA.ipynb`:  Data inspection, visualizations, comparisons, and analysis notes.
-- `water_potability.csv`: Source [Kaggle Water Potability Dataset](https://www.kaggle.com/datasets/devanshibavaria/water-potability-dataset-with-10-parameteres)
